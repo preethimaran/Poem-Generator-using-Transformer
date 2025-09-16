@@ -8,6 +8,16 @@ The code is documented step-by-step in Poetry_generator_using_transformer.ipynb.
 - **Training**: Model was fine-tuned on the poetry dataset.  
 
 ## Observations
-- The model is not able to learn custom tags like [TITLE], [POEM] amd [TAGS] effectively. Better performance observed when only poems were fed into it
+- The model is not able to learn custom tags like [TITLE], [POEM] amd [TAGS] effectively. Better performance observed when only poems were fed into it.
+
+## Results
+
+## Skills Demonstarted
+- NLP
+- Transformer
+- LLM
+- Finetuning on custom dataset
+- Training and checkpointing
+- Text generation pipeline
   
 
