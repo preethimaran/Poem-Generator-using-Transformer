@@ -1,6 +1,7 @@
 # Poem-Generator-using-Transformer
 In this project I built a poetry generator using a pre-trained gpt-2 transformer that is finetuned on the Poetry foundation dataset.
-The code is documented step-by-step in [View Notebook in nbviewer](https://nbviewer.org/github/preethimaran/Poem-Generator-using-Transformer/blob/main/Poetry_generator_using_transformer.ipynb)
+The code is documented step-by-step in [Poetry_generator_using_transformer.ipynb](Poetry_generator_using_transformer.ipynb)
+ [(Click here to view the notebook in nbviewer)](https://nbviewer.org/github/preethimaran/Poem-Generator-using-Transformer/blob/main/Poetry_generator_using_transformer.ipynb)
 . The same document containes all explanantions and observations too.
 
 ## The Dataset
